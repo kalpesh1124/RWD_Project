@@ -88,7 +88,7 @@ body::before{
     border-bottom-right-radius: 60px;
     -webkit-object-fit: cover;
     -moz-object-fit: cover;
-        object-fit: cover;
+    object-fit: cover;
     position: relative !important;    
     filter: blur(30px);
     opacity: 0.95;
